@@ -1,0 +1,92 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2017.07.02.03.05.32",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "AlcubierreStandalone"
+		},
+		{
+			"name": "AmbientLightAdjustment"
+		},
+		{
+			"name": "InfernalRobotics"
+		},
+		{
+			"name": "Karbonite"
+		},
+		{
+			"name": "KAS"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "ProceduralDynamics"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "RealTimeClock2"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "TacFuelBalancer"
+		},
+		{
+			"name": "UKS"
+		},
+		{
+			"name": "USI-Core"
+		},
+		{
+			"name": "USI-LS"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "Konstruction"
+		},
+		{
+			"name": "GroundConstruction-Core"
+		},
+		{
+			"name": "AT-Utils"
+		},
+		{
+			"name": "ConfigurableContainers-Core"
+		}
+	]
+}
